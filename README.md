@@ -14,7 +14,7 @@
 
 ## About me
 
-- 🔭 Currently working on [NutriSynth](https://github.com/Priyanshu9-bit/NutriSynth)
+- 🔭 Currently working on [LocalMindAi](https://github.com/nitishhhzz/LocalMindAi)
 - 🌱 Learning Python full-stack development
 - 🤝 Interested in collaborating on useful frontend and Python projects
 - 💬 Ask me about Python and custom ROMs
@@ -23,7 +23,7 @@
 
 ## Featured project
 
-### [NutriSynth](https://github.com/Priyanshu9-bit/NutriSynth)
+### [LocalMindAi](https://github.com/nitishhhzz/LocalMindAi)
 A project I’m currently working on. Visit the repository to see its latest description, tech stack, and progress.
 
 <!-- Add another project here when you have a repository you'd like to feature:
